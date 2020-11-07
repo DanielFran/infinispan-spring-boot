@@ -61,7 +61,7 @@
         <jboss.releases.nexus.url>https://repository.jboss.org/nexus</jboss.releases.nexus.url>
         <jboss.releases.repo.id>jboss-releases-repository</jboss.releases.repo.id>
         <jboss.releases.repo.url>${jboss.releases.nexus.url}/service/local/staging/deploy/maven2/</jboss.releases.repo.url>
-        <version.checkstyle>8.1</version.checkstyle>
+        <version.checkstyle>8.29</version.checkstyle>
         <version.checkstyle.maven-plugin>2.17</version.checkstyle.maven-plugin>
     </properties>
 
